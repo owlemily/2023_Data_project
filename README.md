@@ -2,7 +2,7 @@
 
 **참고자료**
 1. [발표자료 보기 - 2023 데이터 청년 캠퍼스_빅데이터 분석 기반 금융분야 비즈니스 인사이트 역량제고 과정](https://github.com/owlemily/2023_Data_project/blob/main/files/%EB%8D%B0%EC%B2%AD%EC%BA%A0%201%EB%B6%84%EB%B0%98%203%EC%A1%B0_%20%EC%B5%9C%EC%A2%85%20ppt%20.pdf) 
-2. [2023 ACK 추계학술발표대회 논문 보기](https://github.com/owlemily/2023_Data_project/blob/main/files/2023%20ACK%20%EC%B6%94%EA%B3%84%ED%95%99%EC%88%A0%EB%B0%9C%ED%91%9C%EB%8C%80%ED%9A%8C_%EA%B0%80%EA%B3%84%EB%8C%80%EC%B6%9C%20%EC%97%B0%EC%B2%B4%EC%9C%A8%20%EC%98%88%EC%B8%A1%EC%9D%84%20%ED%86%B5%ED%95%9C%20%EC%8B%9C%EB%8F%84%EB%B3%84%20%EC%A0%95%EC%B1%85%20%EB%B0%A9%ED%96%A5%EC%84%B1%20%EC%97%B0%EA%B5%AC.pdf)
+2. [2023 ACK 추계학술발표대회 논문 보기]([https://github.com/owlemily/2023_Data_project/blob/main/files/2023%20ACK%20%EC%B6%94%EA%B3%84%ED%95%99%EC%88%A0%EB%B0%9C%ED%91%9C%EB%8C%80%ED%9A%8C_%EA%B0%80%EA%B3%84%EB%8C%80%EC%B6%9C%20%EC%97%B0%EC%B2%B4%EC%9C%A8%20%EC%98%88%EC%B8%A1%EC%9D%84%20%ED%86%B5%ED%95%9C%20%EC%8B%9C%EB%8F%84%EB%B3%84%20%EC%A0%95%EC%B1%85%20%EB%B0%A9%ED%96%A5%EC%84%B1%20%EC%97%B0%EA%B5%AC.pdf](https://www.riss.kr/link?id=A108901717))
 3. [2023 데이터 청년 캠퍼스 수료증](https://github.com/owlemily/2023_Data_project/blob/main/files/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%B2%AD%EB%85%84%EC%BA%A0%ED%8D%BC%EC%8A%A4_Certificate.pdf)
 
    
